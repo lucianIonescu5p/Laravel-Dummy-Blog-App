@@ -14,7 +14,7 @@
         <div id="header-wrapper">
             <div id="header" class="container">
                 <div id="logo">
-                    <h1><a href="/">SimpleWork</a></h1>
+                    <h1><a href="/">{{ __('SimpleWork') }}</a></h1>
                 </div>
                 <div id="menu">
                     <ul>
